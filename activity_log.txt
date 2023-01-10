@@ -1462,3 +1462,4 @@ Activity on 2023-01-05 00:00:00 - fix: Handle null pointer exceptions
 Activity on 2023-01-06 00:00:00 - ci: Add end-to-end testing framework
 Activity on 2023-01-06 00:00:00 - build: Optimize image sizes
 Activity on 2023-01-06 00:00:00 - test: Parameterize test cases
+Activity on 2023-01-10 00:00:00 - docs: Add troubleshooting guide
