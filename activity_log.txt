@@ -7,3 +7,5 @@ Activity on 2023-01-09 00:00:00 - refactor: Improve logging mechanism
 Activity on 2023-01-09 00:00:00 - style: Consistent variable naming
 Activity on 2023-01-09 00:00:00 - docs: Add FAQ section
 Activity on 2023-01-11 00:00:00 - build: Update compiler flags
+Activity on 2023-01-12 00:00:00 - ci: Add linting to pre-commit hooks
+Activity on 2023-01-12 00:00:00 - chore: Migrate to new hosting provider
