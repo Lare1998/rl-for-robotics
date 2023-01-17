@@ -11,3 +11,5 @@ Activity on 2023-01-12 00:00:00 - ci: Add linting to pre-commit hooks
 Activity on 2023-01-12 00:00:00 - chore: Migrate to new hosting provider
 Activity on 2023-01-13 00:00:00 - docs: Add usage examples
 Activity on 2023-01-13 00:00:00 - style: Use type hints
+Activity on 2023-01-17 00:00:00 - build: Set up cross-compilation
+Activity on 2023-01-17 00:00:00 - feat: Implement user profile management
