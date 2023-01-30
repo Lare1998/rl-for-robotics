@@ -31,3 +31,5 @@ Activity on 2023-01-26 00:00:00 - docs: Generate Sphinx documentation
 Activity on 2023-01-27 00:00:00 - style: Consistent import order
 Activity on 2023-01-27 00:00:00 - feat: Add internationalization support
 Activity on 2023-01-27 00:00:00 - style: Use black for formatting
+Activity on 2023-01-30 00:00:00 - test: Add unit tests for core logic
+Activity on 2023-01-30 00:00:00 - fix: Correct input validation logic
