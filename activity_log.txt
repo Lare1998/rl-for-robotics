@@ -2961,3 +2961,5 @@ Activity on 2023-02-03 00:00:00 - chore: Update license information
 Activity on 2023-02-03 00:00:00 - fix: Handle null pointer exceptions
 Activity on 2023-02-03 00:00:00 - style: Format code according to PEP8 guidelines
 Activity on 2023-02-06 00:00:00 - perf: Optimize query performance
+Activity on 2023-02-08 00:00:00 - docs: Add contribution guidelines
+Activity on 2023-02-08 00:00:00 - docs: Create quick start guide
