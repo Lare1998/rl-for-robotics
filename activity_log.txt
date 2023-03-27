@@ -3024,3 +3024,6 @@ Activity on 2023-03-22 00:00:00 - style: Consistent variable naming
 Activity on 2023-03-22 00:00:00 - build: Update compiler flags
 Activity on 2023-03-24 00:00:00 - refactor: Decouple modules for better maintainability
 Activity on 2023-03-24 00:00:00 - fix: Correct edge case in data validation
+Activity on 2023-03-27 00:00:00 - refactor: Simplify conditional statements
+Activity on 2023-03-27 00:00:00 - ci: Add linting to pre-commit hooks
+Activity on 2023-03-27 00:00:00 - docs: Add contribution guidelines
