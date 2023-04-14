@@ -3047,3 +3047,4 @@ Activity on 2023-04-11 00:00:00 - chore: Clean up unused files and resources
 Activity on 2023-04-13 00:00:00 - build: Fix Dockerfile issues
 Activity on 2023-04-13 00:00:00 - docs: Add FAQ section
 Activity on 2023-04-13 00:00:00 - refactor: Use design patterns
+Activity on 2023-04-14 00:00:00 - docs: Update README with installation instructions
