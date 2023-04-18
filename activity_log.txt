@@ -130,3 +130,5 @@ Activity on 2023-04-14 00:00:00 - style: Format code according to PEP8 guideline
 Activity on 2023-04-17 00:00:00 - style: Standardize error messages
 Activity on 2023-04-17 00:00:00 - docs: Add API documentation
 Activity on 2023-04-17 00:00:00 - style: Consistent import order
+Activity on 2023-04-18 00:00:00 - chore: Update license information
+Activity on 2023-04-18 00:00:00 - build: Update compiler flags
