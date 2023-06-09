@@ -1641,3 +1641,5 @@ Activity on 2023-06-05 00:00:00 - test: Add end-to-end tests
 Activity on 2023-06-07 00:00:00 - ci: Integrate with SonarQube
 Activity on 2023-06-07 00:00:00 - ci: Add linting to pre-commit hooks
 Activity on 2023-06-08 00:00:00 - feat: Add search functionality
+Activity on 2023-06-09 00:00:00 - chore: Update CI/CD runners
+Activity on 2023-06-09 00:00:00 - perf: Optimize image loading
