@@ -400,3 +400,5 @@ Activity on 2023-11-16 00:00:00 - style: Use black for formatting
 Activity on 2023-11-17 00:00:00 - docs: Improve inline comments
 Activity on 2023-11-17 00:00:00 - build: Set up pre-commit hooks
 Activity on 2023-11-20 00:00:00 - feat: Introduce dark mode theme
+Activity on 2023-11-21 00:00:00 - chore: Migrate to new hosting provider
+Activity on 2023-11-21 00:00:00 - chore: Automate release process
