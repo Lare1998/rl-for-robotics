@@ -3387,3 +3387,4 @@ Activity on 2024-01-18 00:00:00 - build: Automate documentation generation
 Activity on 2024-01-18 00:00:00 - refactor: Use context managers
 Activity on 2024-01-19 00:00:00 - fix: Correct edge case in data validation
 Activity on 2024-01-19 00:00:00 - docs: Add API documentation
+Activity on 2024-01-22 00:00:00 - ci: Add linting to pre-commit hooks
