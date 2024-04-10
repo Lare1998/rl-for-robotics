@@ -573,3 +573,4 @@ Activity on 2024-04-08 00:00:00 - refactor: Improve logging mechanism
 Activity on 2024-04-09 00:00:00 - style: Consistent import order
 Activity on 2024-04-09 00:00:00 - docs: Improve inline comments
 Activity on 2024-04-09 00:00:00 - style: Use f-strings for formatting
+Activity on 2024-04-10 00:00:00 - style: Remove redundant comments
