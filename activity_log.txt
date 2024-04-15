@@ -3484,3 +3484,5 @@ Activity on 2024-04-11 00:00:00 - style: Format code according to PEP8 guideline
 Activity on 2024-04-12 00:00:00 - refactor: Remove redundant code
 Activity on 2024-04-12 00:00:00 - chore: Configure environment variables
 Activity on 2024-04-12 00:00:00 - ci: Integrate with SonarQube
+Activity on 2024-04-15 00:00:00 - fix: Handle null pointer exceptions
+Activity on 2024-04-15 00:00:00 - fix: Resolve bug in authentication module
