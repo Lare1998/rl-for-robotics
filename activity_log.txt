@@ -577,3 +577,5 @@ Activity on 2024-04-10 00:00:00 - style: Remove redundant comments
 Activity on 2024-04-11 00:00:00 - refactor: Use async/await for I/O operations
 Activity on 2024-04-11 00:00:00 - docs: Add usage examples
 Activity on 2024-04-11 00:00:00 - refactor: Use context managers
+Activity on 2024-04-15 00:00:00 - docs: Add contribution guidelines
+Activity on 2024-04-15 00:00:00 - ci: Add linting to pre-commit hooks
