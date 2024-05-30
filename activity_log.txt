@@ -2078,3 +2078,4 @@ Activity on 2024-05-27 00:00:00 - test: Test error handling paths
 Activity on 2024-05-28 00:00:00 - build: Set up pre-commit hooks
 Activity on 2024-05-28 00:00:00 - ci: Add linting to pre-commit hooks
 Activity on 2024-05-29 00:00:00 - refactor: Use design patterns
+Activity on 2024-05-30 00:00:00 - docs: Add troubleshooting guide
