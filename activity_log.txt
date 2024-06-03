@@ -633,3 +633,6 @@ Activity on 2024-05-24 00:00:00 - ci: Add code coverage reporting
 Activity on 2024-05-24 00:00:00 - perf: Optimize image loading
 Activity on 2024-05-30 00:00:00 - build: Optimize image sizes
 Activity on 2024-05-31 00:00:00 - chore: Migrate to new hosting provider
+Activity on 2024-06-03 00:00:00 - style: Use type hints
+Activity on 2024-06-03 00:00:00 - ci: Add linting to pre-commit hooks
+Activity on 2024-06-03 00:00:00 - ci: Add code coverage reporting
