@@ -690,3 +690,4 @@ Activity on 2024-07-15 00:00:00 - style: Use f-strings for formatting
 Activity on 2024-07-15 00:00:00 - build: Set up release branches
 Activity on 2024-07-16 00:00:00 - style: Use f-strings for formatting
 Activity on 2024-07-16 00:00:00 - test: Parameterize test cases
+Activity on 2024-07-17 00:00:00 - ci: Add security scanning
