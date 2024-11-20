@@ -846,3 +846,6 @@ Activity on 2024-11-18 00:00:00 - chore: Configure environment variables
 Activity on 2024-11-18 00:00:00 - docs: Create quick start guide
 Activity on 2024-11-19 00:00:00 - ci: Add linting to pre-commit hooks
 Activity on 2024-11-19 00:00:00 - refactor: Remove redundant code
+Activity on 2024-11-20 00:00:00 - refactor: Simplify conditional statements
+Activity on 2024-11-20 00:00:00 - ci: Add vulnerability scanning
+Activity on 2024-11-20 00:00:00 - ci: Integrate with SonarQube
