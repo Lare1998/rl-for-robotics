@@ -2318,3 +2318,4 @@ Activity on 2024-12-09 00:00:00 - feat: Add real-time notifications
 Activity on 2024-12-10 00:00:00 - test: Add unit tests for core logic
 Activity on 2024-12-10 00:00:00 - feat: Add real-time notifications
 Activity on 2024-12-11 00:00:00 - fix: Correct off-by-one errors
+Activity on 2024-12-12 00:00:00 - docs: Add usage examples
