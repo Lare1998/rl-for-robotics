@@ -876,3 +876,4 @@ Activity on 2024-12-16 00:00:00 - build: Automate deployment to production
 Activity on 2024-12-16 00:00:00 - ci: Add code coverage reporting
 Activity on 2024-12-16 00:00:00 - perf: Optimize query performance
 Activity on 2024-12-18 00:00:00 - style: Remove redundant comments
+Activity on 2024-12-20 00:00:00 - docs: Update README with installation instructions
