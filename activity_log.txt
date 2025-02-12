@@ -935,3 +935,5 @@ Activity on 2025-02-07 00:00:00 - refactor: Simplify conditional statements
 Activity on 2025-02-07 00:00:00 - test: Parameterize test cases
 Activity on 2025-02-07 00:00:00 - chore: Bump version number
 Activity on 2025-02-11 00:00:00 - build: Set up pre-commit hooks
+Activity on 2025-02-12 00:00:00 - style: Standardize error messages
+Activity on 2025-02-12 00:00:00 - chore: Clean up unused files and resources
