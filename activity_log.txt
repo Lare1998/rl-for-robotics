@@ -3952,3 +3952,4 @@ Activity on 2025-05-08 00:00:00 - ci: Add integration with external services
 Activity on 2025-05-09 00:00:00 - test: Use fixtures for test data
 Activity on 2025-05-12 00:00:00 - build: Set up pre-commit hooks
 Activity on 2025-05-12 00:00:00 - feat: Implement pagination for results
+Activity on 2025-05-14 00:00:00 - style: Standardize error messages
