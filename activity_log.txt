@@ -2552,3 +2552,5 @@ Activity on 2025-06-16 00:00:00 - fix: Address memory leaks
 Activity on 2025-06-17 00:00:00 - refactor: Simplify conditional statements
 Activity on 2025-06-17 00:00:00 - style: Standardize error messages
 Activity on 2025-06-18 00:00:00 - chore: Update dependencies in requirements.txt
+Activity on 2025-06-19 00:00:00 - docs: Add contribution guidelines
+Activity on 2025-06-19 00:00:00 - test: Parameterize test cases
