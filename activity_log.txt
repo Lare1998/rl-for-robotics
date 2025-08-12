@@ -2620,3 +2620,5 @@ Activity on 2025-08-08 00:00:00 - fix: Address security vulnerabilities
 Activity on 2025-08-08 00:00:00 - docs: Create quick start guide
 Activity on 2025-08-11 00:00:00 - ci: Add integration with external services
 Activity on 2025-08-11 00:00:00 - perf: Reduce bundle size
+Activity on 2025-08-12 00:00:00 - docs: Add FAQ section
+Activity on 2025-08-12 00:00:00 - docs: Add contribution guidelines
