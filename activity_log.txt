@@ -1157,3 +1157,5 @@ Activity on 2025-08-20 00:00:00 - test: Use fixtures for test data
 Activity on 2025-08-20 00:00:00 - style: Consistent variable naming
 Activity on 2025-08-20 00:00:00 - style: Remove redundant comments
 Activity on 2025-08-21 00:00:00 - chore: Migrate to new hosting provider
+Activity on 2025-08-22 00:00:00 - ci: Integrate with SonarQube
+Activity on 2025-08-22 00:00:00 - style: Standardize error messages
