@@ -4194,3 +4194,5 @@ Activity on 2025-11-20 00:00:00 - docs: Improve inline comments
 Activity on 2025-11-24 00:00:00 - feat: Add search functionality
 Activity on 2025-11-24 00:00:00 - docs: Add FAQ section
 Activity on 2025-11-24 00:00:00 - ci: Add linting to pre-commit hooks
+Activity on 2025-11-25 00:00:00 - chore: Clean up unused files and resources
+Activity on 2025-11-25 00:00:00 - perf: Reduce bundle size
